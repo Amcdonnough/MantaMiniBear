@@ -1,3 +1,8 @@
 # MantaMiniBear
 Project files for building a Mini Bear 3D Printer
-![Manta Mini Final Render Front](https://user-images.githubusercontent.com/98530282/226712796-3ab8c846-5d5c-4fd4-9952-467c9c10667f.png)
+
+![Mini Bear Light Bar](https://github.com/Amcdonnough/MantaMiniBear/assets/98530282/95feaf6a-20e8-41de-ac61-1565eb7056d0)
+
+Light Bar in development.
+
+Future Update: Adding BMO compatibility. 
